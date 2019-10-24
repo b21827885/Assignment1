@@ -1,0 +1,9 @@
+Name-Mete
+Surname-Tırmık
+Id-b21827885
+b21827885@cs.hacettepe.edu.tr
+Hi.My name is Mete.I am coming from Manisa/Akhisar.
+I am student in Hacettepe University.I am studying Computer Engineering.
+I gratuated from Akhisar High Science School.My favourite lesson has always been mathematic.
+The only laguage I know is English but now I am trying to learn German.
+I don't like reading a book.I love spending time on my computer.
